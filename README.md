@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gui-Yuki
 - I’m interested in develop intraday automations for small applications, like driving distances consults, DL to Google sheets or GCP info tranfer, etc.
-- 🌱 I’m currently learning python basics for my purposes.
 - 📫 How to reach me: gyuki26@gmail.com
 
 <!---
